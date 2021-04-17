@@ -1,6 +1,7 @@
 # python-study
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am a Python newb trying new tingz!
+
 Following on this [url](https://catalins.tech/how-to-create-a-kickass-github-profile-page?utm_source=tldrnewsletter) for setting up this repo.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)
