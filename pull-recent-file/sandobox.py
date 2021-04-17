@@ -10,7 +10,6 @@
 
 #Got help from this stackoverflow site: https://stackoverflow.com/questions/21184018/get-latest-file-based-on-filename-python
 
-"""
 filenames = [
     'RandomStuffReport202104051119093gmawt.csv',
     'RandomStuffReport202104111119093gmawt.csv',
@@ -24,22 +23,22 @@ filenames = [
 import re
 import datetime
 
-date_pattern = re.compile(r'\b(\d{2})-(\d{2})-(\d{4})\b')
+date_pattern = re.compile(r'\b(\d{4})-(\d{2})-(\d{2})\b')
 def get_date(filename):
     matched = date_pattern.search(filename)
     if not matched:
         return None
-    m, d, y = map(int, matched.groups())
+    y, m, d = map(int, matched.groups())
     return datetime.date(y, m, d)
 
 dates = (get_date(fn) for fn in filenames)
 dates = (d for d in dates if d is not None)
 last_date = max(dates)
-last_date = last_date.strftime('%m-%d-%Y')
+last_date = last_date.strftime('%Y-%m-%d')
 filenames = [fn for fn in filenames if last_date in fn]
 for fn in filenames:
     print(fn)
-"""
+
 
 """
 
