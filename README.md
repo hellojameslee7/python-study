@@ -20,6 +20,16 @@ Following on this [url](https://catalins.tech/how-to-create-a-kickass-github-pro
 
 ---
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojameslee7&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![James GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojameslee7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
