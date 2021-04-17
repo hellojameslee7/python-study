@@ -43,6 +43,7 @@ def get_date(filename):
     matched = date_pattern.search(filename)
     if not matched:
         matched = alt_date_pattern.search(filename)
+        #right now everything works except the part above. not sure what i'm missing
     y, m, d = map(int, matched.groups())
     return datetime.date(y, m, d)
 
