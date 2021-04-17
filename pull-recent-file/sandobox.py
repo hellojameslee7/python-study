@@ -28,9 +28,11 @@ filenames = [
     'Random_Stuff_Report_2021-04-12T0905_3gmawt.csv',
     'Random_Stuff_Report_2021-05-12T0905_3gmawt.csv',
     'Random_Stuff_Report_2021-06-12T0905_3gmawt.csv',
-    'Another Report_Test-20131216.10_52-en.csv',
-    'Another Report_Test-20141216.10_52-en.csv',
-    'Another Report_Test-20141217.10_52-en.csv'
+    'Another_Report_Test-20131216.10_52-en.csv',
+    'Another_Report_Test-20141216.10_52-en.csv',
+    'Another_Report_Test-20141217.10_52-en.csv'
+    'somany_reports_2020_20201228.txt'
+    'somany_reports_2020_20210216.csv'
 ] # Used in place of `os.listdir(....)`
 
 import re
