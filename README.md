@@ -42,11 +42,11 @@ Following on this [url](https://catalins.tech/how-to-create-a-kickass-github-pro
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Build An E-Commerce Backend With Minimal Code](https://catalins.tech/hasura-ecommerce-backend)
 - [How to Push Empty Git Commits](https://catalins.tech/git-empty-commit)
 - [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
 - [How to Set Environment Variables on Heroku](https://catalins.tech/heroku-environment-variables)
 - [Search and Filter Data in React Using Hooks](https://catalins.tech/search-and-filter-data-in-react-using-hooks)
-- [Node.Js + PostgreSQL + Heroku Error: No pg_hba.conf entry for host, SSL off](https://catalins.tech/nodejs-postgresql-heroku-error-no-pghbaconf-entry-for-host-ssl-off)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
