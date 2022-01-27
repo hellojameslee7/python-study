@@ -42,11 +42,11 @@ Following on this [url](https://catalins.tech/how-to-create-a-kickass-github-pro
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Install a Specific Version of a Node.JS Package](https://catalins.tech/install-a-specific-version-of-a-nodejs-package)
 - [Build An E-Commerce Backend With Minimal Code](https://catalins.tech/hasura-ecommerce-backend)
 - [How to Push Empty Git Commits](https://catalins.tech/git-empty-commit)
 - [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
 - [How to Set Environment Variables on Heroku](https://catalins.tech/heroku-environment-variables)
-- [Search and Filter Data in React Using Hooks](https://catalins.tech/search-and-filter-data-in-react-using-hooks)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
